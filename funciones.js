@@ -17,6 +17,5 @@ function saludar(nombre, apellido) {
 
 
 function nueva() {
-
-    alert ("Holaaaa");
+    alert("Holaaaa estamos de prueba");
 }
